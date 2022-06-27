@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26" alt="HTML" height="30"/>
   <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6" alt="CSS" height="30"/>
   <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="30"/>
-  <img src="https://custom-icon-badges.herokuapp.com/badge/-Java-000.svg?&logo=java&logoColor=8B0000" alt="Java" height="30"/>  
+  <img src="https://custom-icon-badges.herokuapp.com/badge/-Java-000.svg?&logo=java&logoColor=8B0000" alt="Java" height="30"/> 
+  <img src="https://img.shields.io/badge/C-000?&logo=c&logoColor=white" alt="C" height="30"/>
   <img src="https://img.shields.io/badge/-Postman-000?&logo=postman" alt="Postman" height="30"/>
   <img src="https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=blue" alt="VS Code" height="30"/>
 </div>
