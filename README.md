@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bell
+<h1 align="center"> Hi there! 👋 I'm Bell </h1>
 <img src="/src/cover_header.png">
 
 - 👩‍💼 I am a <b>technical consultant</b>.
@@ -31,3 +31,5 @@ You can click the Preview link to take a look at your changes.
      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BellAimsaard" alt="Profile Views" /> </p>
