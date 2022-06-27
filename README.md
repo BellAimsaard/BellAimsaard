@@ -2,7 +2,7 @@
 <img src="/src/cover_header.png">
 
 - 👩‍💼 I am a <b>technical consultant</b>.
-- 🌐 Visit my website ![Bell badge](https://img.shields.io/badge/Click_Here-1572B6?style=plastic&logoColor=white)
+- 🌐 Visit my website [![Bell badge](https://img.shields.io/badge/Click_Here-1572B6?style=plastic&logoColor=white)](https://bellaimsaard.github.io/myportfolio.github.io/)
 <!---
 BellAimsaard/BellAimsaard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
