@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! 👋 I'm Bell </h1>
 <img src="/src/cover_header.png">
 
-- 👩‍💼 I am a Technical Consultant who has experience in ABAP programming and SAP Cloud Platform Integration (CPI) for 5 years. Moreover, I am passionate about coding other programming languages in my free time.</b>
+- 👩‍💼 I am a Technical Consultant who has experience in ABAP programming and SAP Cloud Platform Integration (CPI) with multiple projects for 6 years. Moreover, I am passionate about coding other programming languages in my free time.</b>
 - 🌐 Visit my website [![Bell badge](https://img.shields.io/badge/Click_Here-1572B6?style=plastic&logoColor=white)](https://bellaimsaard.github.io/myportfolio/)
 <!---
 BellAimsaard/BellAimsaard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
