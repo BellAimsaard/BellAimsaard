@@ -20,9 +20,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=blue" alt="VS Code" height="30"/>
 </div>
 
-### 📈 GitHub Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellaimsaard&layout=compact&theme=monokai)](https://github.com/bellaimsaard/github-readme-stats)
-
 ### :telephone_receiver: Connect with me
 <div id="contact">
   <a href=https://www.linkedin.com/in/sawanee-aimsaard/">
